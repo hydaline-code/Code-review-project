@@ -36,7 +36,10 @@ header #nav-bar {
   margin-top: 60px;
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  gap: 2rem;
+  margin-left: 5rem;
+  border: solid;
+  
 }
 
 .product {
